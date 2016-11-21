@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<dataset>
+  <users id="1" name="A" hireDate="2012-02-1" physicalDate="2011-02-11" didPhysical="No" nextPhysical="2016-02-11" birthDate="2016-02-1" guid="df444g4ghtt" age="23" email="test1@gemini.edu" didReminder="0" reminderCount="10" />
+  <users id="2" name="B" hireDate="2012-02-11" physicalDate="2014-02-11" didPhysical="Yes" nextPhysical="2016-02-11" birthDate="2016-02-1" guid="trtgfgfrg56" age="45" email="test2@gemini.edu" didReminder="1" reminderCount="11" />
+  <users id="3" name="C" hireDate="2011-05-13" physicalDate="2015-05-13" didPhysical="No" nextPhysical="2016-05-13" birthDate="2016-02-1" guid="gfdg5654tet" age="65" email="test3@gemini.edu" didReminder="0" reminderCount="0" />
+  <users id="4" name="D" hireDate="2009-01-17" physicalDate="2013-01-17" didPhysical="No" nextPhysical="2016-01-17" birthDate="2016-02-1" guid="v45hgbnmzd4" age="34" email="test4@gemini.edu" didReminder="0" reminderCount="15" />
+  <users id="5" name="E" hireDate="2012-03-1" physicalDate="2015-03-11" didPhysical="Yes" nextPhysical="2016-03-11" birthDate="2016-02-1" guid="56g5gbhn66u" age="65" email="test5@gemini.edu" didReminder="1" reminderCount="12" />
+  <users id="6" name="F" hireDate="2015-09-15" physicalDate="2011-09-15" didPhysical="No" nextPhysical="2016-09-15" birthDate="2016-02-1" guid="dfdsfff3432" age="23" email="test6@gemini.edu" didReminder="0" reminderCount="15" />
+  <users id="7" name="G" hireDate="2013-10-10" physicalDate="2014-10-10" didPhysical="No" nextPhysical="2016-10-10" birthDate="2016-02-1" guid="123fg3434rr" age="46" email="test7@gemini.edu" didReminder="1" reminderCount="1" />
+</dataset>

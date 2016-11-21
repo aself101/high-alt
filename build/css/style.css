@@ -1,0 +1,52 @@
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
+}
+
+footer  {
+  background-color: #2196f3 !important;
+}
+
+nav {
+  background-color: #2196f3 !important;
+}
+
+.bordered {
+  border: 1px solid #D3D3D3;
+}
+
+._active {
+  background-color: #2196f3 !important;
+}
+
+.tab-text {
+  color: #2196f3 !important;
+}
+
+.tabs .indicator {
+  background-color: #2196f3 !important;
+}
+
+#deleteUserData {
+  background-color: red !important;
+}
+
+.pagination {
+  position: absolute;
+}
+
+.userFail {
+  background-color: #d9534f !important;
+}
+
+.userSuccess {
+  background-color: #5cb85c !important;
+}
+.card-large {
+  height: 600px;
+}
